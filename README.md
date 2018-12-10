@@ -1,5 +1,3 @@
-[homoPages](https://github.com/DevDragonLi)
-
 # Core Animation框架结构及性能调优 均为图片
 
 ## 1.Core Animation
